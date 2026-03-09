@@ -2,6 +2,10 @@
 
 A full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application for exploring rental properties, posting listings, and managing bookings with role-based access (user and admin).
 
+
+<img width="2531" height="1209" alt="image" src="https://github.com/user-attachments/assets/96c8c130-6d1f-4cdb-9587-bbc53f3a221e" />
+
+
 ## Features
 
 - **User auth**: Register, login, JWT-based sessions
